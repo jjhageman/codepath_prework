@@ -2,13 +2,13 @@
 
 Tipster is an iOS app that easily calculates tip amounts on your restraunt bills. Adjust the tip amount, and store your default tip percentage. Tipster also supports local currencies.
 
-<img src="https://www.dropbox.com/s/d5jsnr8l61xvmoe/tipster_walkthrough.gif?dl=0"  alt="Screen Demo" width="317" />
+<img src="http://i.imgur.com/LgQEhMQ.gif"  alt="Screen Demo" width="317" />
 
 ## Overview
 
-Hours to complete: ~4.5 hours
+**Hours to complete:** ~4.5 hours
 
-Features: 
+**Features:**
 
 - [x] Calulate tip and total amounts for user entered bill amounts.
 - [x] Settings view allowing users to set a default tip percentage.
