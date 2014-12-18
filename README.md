@@ -20,8 +20,7 @@ Tipster is an iOS app that easily calculates tip amounts on your restraunt bills
 
 ### Creator
 
-- [Jeremy Hageman](http://github.com/jjhageman) ([@mattt](https://twitter.com/mattt))
-- Follow me on Twitter ([@jjhageman](https://twitter.com/jjhageman))
+- [Jeremy Hageman](http://github.com/jjhageman) ([@jjhageman](https://twitter.com/jjhageman))
 
 ## License
 
