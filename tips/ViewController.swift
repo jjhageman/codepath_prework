@@ -29,7 +29,9 @@ class ViewController: UIViewController {
     
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
-        
+//        if !tipPercentSelected {
+//            loadDefaultTipPercentage()
+//        }
     }
     
     override func viewDidLoad() {
@@ -155,6 +157,9 @@ class ViewController: UIViewController {
             billField.text = "0"
             clearBillAmountCache()
             hideResults()
+            if !tipPercentSelected {
+                loadDefaultTipPercentage()
+            }
         } else {
             stripBillAmountLeadingZero()
             showResults()
